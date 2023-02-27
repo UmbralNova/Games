@@ -1,0 +1,6 @@
+nav {
+  background-color: rgb(26, 122, 122);
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+}
