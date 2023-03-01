@@ -4,3 +4,12 @@ nav {
   display: flex;
   flex-direction: column;
 }
+
+body {
+  background-image: url("Tetris.jpg");
+}
+
+a {
+  text-decoration: none;
+  color: aquamarine;
+}
